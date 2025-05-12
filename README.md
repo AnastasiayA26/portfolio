@@ -1,3 +1,3 @@
 # portfolio
 
-- [ОАОАО](portfolio/ols.ipynb)
+- [ОАОАО](ols.ipynb)
